@@ -1,4 +1,6 @@
-hello 
-hello
-what's your name
-my name is cheesy
+{
+  "name": "Khamilova Ievgeniia",
+  "age": 34,
+  "pets#": 0,
+  "salary": 100000
+}
