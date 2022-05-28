@@ -1,11 +1,7 @@
-{ "favMovie":"Untouchable",
-	"favSeries":"Friends",
-	"favFood":"Omlet",
-	"favSeason":"Spring",
-	"CountryYouWantToVisit":"France"
+{
+"FavMovie":"Untouchable",
+"FavSeries":"Friends",
+"FavSeason":"Spring",
+"FavDish":"Omelet",
+"FavCountry":"France"
 }
-
-
-
-
-
