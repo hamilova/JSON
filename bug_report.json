@@ -10,3 +10,18 @@
   "search": "",
   "hash": ""
 }
+
+"networkRequests": [
+  {
+    "name": "http://localhost:4000/styles.css",
+    "initiatorType": "link",
+    "redirectTime": 0,
+    "dnsTime": 0,
+    "tcpHandshakeTime": 0,
+    "secureConnectionTime": 0,
+    "responseTime": 0.4600000102072954,
+    "fetchUntilResponseEndTime": 22.409999975934625,
+    "requestStartUntilResponseEnd": 0.6849999772384763,
+    "startUntilResponseEnd": 22.409999975934625
+  }
+]
