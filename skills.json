@@ -1,6 +1,17 @@
 { 
-	"Documentation":"Test case",
+	"Documentation": [
+		"Test cases",
+		"Checklists",
+		"Bugreports"
+    ]		
 	"API testing":"Postman",
-	"Databases":"MySql",
+	"Databases": [ 
+		"MySql",
+		"Oracle",
+		"postgreSQL"
+    ]
 	"Framework":"Agile"
 }
+
+  
+ 
